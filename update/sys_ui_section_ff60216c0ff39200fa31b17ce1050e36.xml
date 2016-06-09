@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="ff60216c0ff39200fa31b17ce1050e36" sys_domain="global" table="x_0892_prognostica_prediction" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>751b69600f379200fa31b17ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>1</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>f51b69600f379200fa31b17ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fixture</element>
+            <position>2</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>791b69600f379200fa31b17ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home_team</element>
+            <position>3</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>f91b69600f379200fa31b17ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fixture.home_score</element>
+            <position>4</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>7d1b69600f379200fa31b17ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home_score</element>
+            <position>5</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>fd1b69600f379200fa31b17ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>points</element>
+            <position>6</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>711b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>f11b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>8</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>751b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>9</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>f51b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>10</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>791b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>away_team</element>
+            <position>11</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>f91b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fixture.away_score</element>
+            <position>12</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>7d1b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>away_score</element>
+            <position>13</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>fd1b69600f379200fa31b17ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>711b69600f379200fa31b17ce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>15</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>f11b69600f379200fa31b17ce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_and_work_notes</element>
+            <position>16</position>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 20:40:41</sys_created_on>
+            <sys_id>751b69600f379200fa31b17ce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_0892_prognostica_prediction" sys_domain="global" view="Default view">ff60216c0ff39200fa31b17ce1050e36</sys_ui_section>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 20:40:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_0892_prognostica_prediction</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>david.van.damme</sys_created_by>
+            <sys_created_on>2016-05-31 19:54:08</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff60216c0ff39200fa31b17ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_0892_prognostica_prediction</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Prognostica" source="x_0892_prognostica">b1dac1910f6b1200fa31b17ce1050ea8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Prognostica">b1dac1910f6b1200fa31b17ce1050ea8</sys_scope>
+            <sys_update_name>sys_ui_section_ff60216c0ff39200fa31b17ce1050e36</sys_update_name>
+            <sys_updated_by>david.van.damme</sys_updated_by>
+            <sys_updated_on>2016-05-31 19:54:08</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

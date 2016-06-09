@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="x_0892_nowsports_fixture" label="Prediction" max_length="40" name="x_0892_prognostica_prediction" sizeclass="1" type="collection">
+        <element active="false" label="Fixture" mandatory="true" max_length="32" name="fixture" reference="x_0892_nowsports_fixture" type="reference"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+    </element>
+</database>
